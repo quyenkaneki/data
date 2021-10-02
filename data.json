@@ -1,5 +1,6 @@
 {
-    "doanhinh": [{
+    "doanhinh": [
+        {
             "tukhoa": "cá mập",
             "sokitu": "☐☐ ☐☐☐",
             "link1": "https://naturfish.vn/image/cache/catalog/revslider_media_folder/Ca%20ngu%20nguyen%20con%20anh%20bia-500x500.jpg",
@@ -10,6 +11,72 @@
             "sokitu": "☐☐☐☐ ☐☐☐☐",
             "link1": "https://i3.wp.com/conkec.com/sites/default/files/screenshot_12_49.png",
             "link2": "https://i1.wp.com/ae01.alicdn.com/kf/Hcc9ae1ca0f5b4327988d1f2438732262s/CuO-Cu2O-High-Purity-Powder-99-9-Copper-Oxide-for-R-D-Ultrafine-Nano-Powders-about.jpg_640x640.jpg"
+        },
+        {
+            "tukhoa": "cộng đồng",
+            "sokitu": "☐☐☐☐ ☐☐☐☐",
+            "link1": "https://i3.wp.com/conkec.com/sites/default/files/screenshot_12_49.png",
+            "link2": "https://i1.wp.com/ae01.alicdn.com/kf/Hcc9ae1ca0f5b4327988d1f2438732262s/CuO-Cu2O-High-Purity-Powder-99-9-Copper-Oxide-for-R-D-Ultrafine-Nano-Powders-about.jpg_640x640.jpg"
+        },        
+        {
+            "tukhoa": "bao la",
+            "sokitu": "☐☐☐ ☐☐",
+            "link1": "https://www.thuocdantoc.org/wp-content/uploads/2019/08/su-dung-bao-cao-su-co-thai.jpg",
+            "link2": "https://memedaily.vn/storage/meme/ngu-day-toat-mo-hoi-gao-thet-aaaaaa-aaaaa-aaaaaaaa.jpg"            
+        },
+        {
+            "tukhoa": "mỹ tâm",
+            "sokitu": "☐☐ ☐☐☐",
+            "link1": "https://pixabay.com/static/uploads/photo/2015/10/09/15/24/american-flag-979503_960_720.jpg",
+            "link2": "https://www.wikihow.com/images/9/93/Find-the-Center-of-a-Circle-Step-17.jpg"            
+        }, 
+        {
+            "tukhoa": "báo thức",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "link1": "https://haiphong.gov.vn/upload/haiphong/product/2021/03-2021/Bao-An-ninh-Hai-Phong-chuyen-thanh-chuyen-de-cua-Bao-Cong-an-nhan-dan-57341.jpg",
+            "link2": "https://yogadaily.com.vn/wp-content/uploads/2020/07/1-4.jpg"            
+        }, 
+        {
+            "tukhoa": "môi trường",
+            "sokitu": "☐☐☐ ☐☐☐☐☐☐",
+            "link1": "https://scibeauty.edu.vn/wp-content/uploads/2020/09/xam-moi-bao-nhieu-tien.jpg",
+            "link2": "https://png.pngtree.com/png-vector/20190629/ourlarge/pngtree-school-building-flat-design-png-image_1512489.jpg"            
+        }, 
+        {
+            "tukhoa": "tấn công",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "link1": "https://st.depositphotos.com/1742172/2000/v/380/depositphotos_20007433-stock-illustration-1-ton-weight-cartoon.jpg",
+            "link2": "https://static2.yan.vn/YanNews/2167221/201912/de-thuong-la-the-ma-elsa-doi-thuc-lai-xuat-hien-toan-phien-ban-dang-so-31192cde.jpg"            
+        },  
+        {
+            "tukhoa": "tổng tư lệnh",
+            "sokitu": "☐☐☐☐ ☐☐ ☐☐☐☐",
+            "link1": "https://chiembaomothay.com/wp-content/uploads/2021/03/42-1.png",
+            "link2": "https://product.hstatic.net/200000017614/product/lenh-bai_83a4cf57f8da4d5b8953fc41b0cb0bba.jpeg"            
+        },
+        {
+            "tukhoa": "dầu gió",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "link1": "https://s.meta.com.vn/img/thumb.ashx/498x500x95/Data/image/2020/03/30/dau-dau-nanh-simply-2-lit.jpg",
+            "link2": "https://st.quantrimang.com/photos/image/2017/06/29/gio-4.jpg"            
+        },  
+        {
+            "tukhoa": "nhãn tiền",
+            "sokitu": "☐☐☐☐ ☐☐☐☐",
+            "link1": "https://png.pngtree.com/element_our/20200610/ourlarge/pngtree-angry-eyes-expression-image_2245571.jpg",
+            "link2": "https://png.pngtree.com/png-clipart/20190904/original/pngtree-cartoon-money-bag-coin-illustration-png-image_4503677.jpg"            
+        },  
+        {
+            "tukhoa": "đấu tranh",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "link1": "https://png.pngtree.com/png-clipart/20210530/original/pngtree-fight-covid-19-coronavirus-pandemic-hero-png-image_6371081.jpg",
+            "link2": "https://vcdn-ngoisao.vnecdn.net/2019/07/26/picture-8251-1564129398.jpg"            
+        }, 
+        {
+            "tukhoa": "thất truyền",
+            "sokitu": "☐☐☐☐ ☐☐☐☐☐☐",
+            "link1": "https://2.bp.blogspot.com/-YSg2MWOKRz4/VsaHhKs4soI/AAAAAAAAACk/epw0l9xbqW0/s400/seven-706891_640%2B%25281%2529.jpg",
+            "link2": "https://fpt.vn/storage/upload/images/promotions/khuyen_mai/pay_tv/fpt_poster_tong.png"            
         }
     ]
 }
