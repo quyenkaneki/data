@@ -1,14 +1,15 @@
 {
-    "doanhinh": [
+    "doanhinh": [{
             "tukhoa": "cá mập",
             "sokitu": "☐☐ ☐☐☐",
             "link1": "https://naturfish.vn/image/cache/catalog/revslider_media_folder/Ca%20ngu%20nguyen%20con%20anh%20bia-500x500.jpg",
             "link2": "https://suckhoedoisong.qltns.mediacdn.vn/Images/quangcao/2019/01/10/canifit11.jpg"
+        },
+        {
             "tukhoa": "cộng đồng",
             "sokitu": "☐☐☐☐ ☐☐☐☐",
             "link1": "https://i3.wp.com/conkec.com/sites/default/files/screenshot_12_49.png",
             "link2": "https://i1.wp.com/ae01.alicdn.com/kf/Hcc9ae1ca0f5b4327988d1f2438732262s/CuO-Cu2O-High-Purity-Powder-99-9-Copper-Oxide-for-R-D-Ultrafine-Nano-Powders-about.jpg_640x640.jpg"
-        
+        }
     ]
 }
-
