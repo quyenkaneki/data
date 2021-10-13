@@ -11,10 +11,10 @@
         "righttToHhelp_1": "Đá Nhảy"
     }
     ],
-    "level_2" [
-    {
+    "level_2": [
+    {   
         "question": "Haiku là thể thơ truyền thống của nước nào?",
-        "a": "Hàn Quốc",
+        "a": "Hàn Quốc",:
         "b": "Mông Cổ",
         "c": "Nhật Bản",
         "d": "Triều Tiên",
@@ -23,7 +23,7 @@
         "righttToHhelp_1": "Triều Tiên"
     }
     ],
-    "level_3" [
+    "level_3": [
     {
         "question": "Chiến trường Đắk Tô - Tân Cảnh, nơi diễn ra chiến thắng vang đội năm 1972, nay thuộc địa bàn tỉnh nào ở Tây Nguyên?",
         "a": "Kon Tum",
@@ -35,7 +35,7 @@
         "righttToHhelp_1": "Gia Lai"
     }
     ],
-    "level_4" [
+    "level_4": [
     {
         "question": "Tượng đài Chiến thắng Điện Biên Phủ được dựng trên ngọn đồi nào?",
         "a": "D1",
@@ -47,7 +47,7 @@
         "righttToHhelp_1": "A1"
     }
     ],
-    "level_5" [
+    "level_5": [
     {
         "question": "Bộ phim \"Chị Dậu\" được chuyển thể từ tác phẩm nào?",
         "a": "Người mẹ cầm súng",
@@ -59,7 +59,7 @@
         "righttToHhelp_1": "Tắt đè"
     }
     ],
-    "level_6" [
+    "level_6": [
     {
         "question": "Vườn quốc gia nào hiện không nằm trong danh sách Vườn di sản ASEAN?",
         "a": "Vườn quốc gia Kon Ka Kinh",
@@ -71,7 +71,7 @@
         "righttToHhelp_1": "Vườn quốc gia Bái Tử Long"
     }
     ],
-    "level_7" [
+    "level_7": [
     {
         "question": "Trái Đất cách Mặt Trời khoảng bao nhiêu dặm?",
         "a": "9,3 triệu",
@@ -83,7 +83,7 @@
         "righttToHhelp_1": "193 triệu"
     }
     ],
-    "level_8" [
+    "level_8": [
     {
         "question": "Theo Văn phòng Tham khảo Dân số, thì tổng số người từng sống trên Trái Đất từ xưa đến nay là khoảng bao nhiêu người?",
         "a": "50 tỷ",
@@ -95,7 +95,7 @@
         "righttToHhelp_1": "1.000 tỷ"
     }
     ],
-    "level_9" [
+    "level_9": [
     {
         "question": "Các nhà thần kinh học tin rằng vỏ thùy giữa trán của não được kích hoạt khi bạn làm gì?",
         "a": "Bị hoảng loạn",
@@ -107,7 +107,7 @@
         "righttToHhelp_1": "Hiểu một chuyện cười"
     }
     ],
-    "level_10" [
+    "level_10": [
     {
         "question": "Loài côn trùng nào đã từng làm chập một chiếc máy tính và sau đó khiến người ta bắt đầu dùng cụm từ computer bug (“rệp máy tính”, tức là lỗi phần mềm)?",
         "a": "Sâu bướm",
@@ -119,7 +119,7 @@
         "righttToHhelp_1": "Bọ cánh cứng Nhật Bản"
     }
     ],
-    "level_11" [
+    "level_11": [
     {
         "question": "Tổng thống Mỹ nào từng xuất hiện trong loạt phim truyền hình Laugh-In?",
         "a": "Lyndon Johnson",
@@ -131,7 +131,7 @@
         "righttToHhelp_1": "Gerald Ford"
     }
     ],
-    "level_12" [
+    "level_12": [
     {
         "question": "Đâu là tên một loại bệnh trên cây lúa?",
         "a": "Đạo tráng",
@@ -143,7 +143,7 @@
         "righttToHhelp_1": "Đạo đức"
     }
     ],
-    "level_13" [
+    "level_13": [
     {
         "question": "Đâu là tên một ngôi chùa nổi tiếng ở Thái Bình?",
         "a": "Chùa Dâu",
@@ -155,7 +155,7 @@
         "righttToHhelp_1": "Chùa Đồng"
     }
     ],
-    "level_14" [
+    "level_14": [
     {
         "question": "Sóng âm không thể truyền được trong môi trường nào?",
         "a": "Gỗ",
@@ -167,7 +167,7 @@
         "righttToHhelp_1": "Chân không"
     }
     ],
-    "level_15" [
+    "level_15": [
     {
         "question": "Nhà Hậu Lê được thành lập sau thắng lợi của cuộc khởi nghĩa nào?",
         "a": "Hàm Tử",
