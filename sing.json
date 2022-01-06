@@ -1,6 +1,11 @@
 { "keySing": [
         {
             "API_KEY": "AIzaSyDA67buqobPqIf_dbFqrOS_zWgUF8H_wL8"
-        }
+        },
+        {
+            "API_KEY": "AIzaSyD1Pv5LGPA_W7wP114-qVv12U5lHs5Ez_U"
+        },
+        {
+            "API_KEY": "AIzaSyCjp5YPl8C5px85e8lS-dku5x08fKgBpKo"
         ]
 }
